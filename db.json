@@ -1,0 +1,39 @@
+{
+    "authors": [
+      { 
+        "name": "Chris Hart", 
+        "blogs": [
+          {
+            "title": "Tasty Tacos",
+            "description": "Here's a recipe for the best Tacos"
+          }
+        ] 
+      },
+      { 
+        "name": "Sean Shealy", 
+        "blogs": [
+          {
+            "title": "Delicious Cookies",
+            "description": "Here's a recipe for the best Cookies"
+          },
+          {
+            "title": "My Favorite Cupcakes",
+            "description": "Here's a recipe for the best Cupcakes"
+          },
+          {
+            "title": "Award Winning Cheesecake",
+            "description": "Here's a receipt for the best Cheesecake"
+          }
+        ] 
+      },
+      { 
+        "name": "Ashley Grant", 
+        "blogs": [
+          {
+            "title": "Yummy Spaghetti",
+            "description": "Here's a recipe for the best Spaghetti"
+          }
+        ] 
+      }
+    ]
+  }  
