@@ -8,14 +8,39 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #3da09a;
+  min-height: 20vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  text-align: left;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(30px + 2vmin);
   color: white;
+}
+#header-text {
+  position: relative;
+  left: 10px;
+}
+#list_of_authors {
+  text-align: left;
+  position: relative;
+  left: 30px;
+}
+#author_blog_entry {
+  position: relative;
+  left: 50px;
+  border-style: solid;
+  width: 70%
+}
+#text_in_blog_entry{
+  position: relative;
+  left: 60px;
+}
+#title{
+  font-size: calc(7px + 2vmin);
+}
+#description{
+  font-size: calc(1px + 2vmin);
 }
 
 .App-link {
