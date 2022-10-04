@@ -27,10 +27,13 @@
   left: 30px;
 }
 #author_blog_entry {
+  margin-top: 20px;
   position: relative;
   left: 50px;
   border-style: solid;
-  width: 70%
+  border-color: red;
+  width: 70%;
+  white-space: pre-wrap;
 }
 #text_in_blog_entry{
   position: relative;
